@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingFilteringTest", "BindingFilteringTest\BindingFilteringTest.csproj", "{4D811310-C5E5-4DC0-8AE9-8112ACF364AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BCC74276-FF7D-4CF7-A3FD-A2F74C18C885}"
+	ProjectSection(SolutionItems) = preProject
+		BindingFiltering.vsmdi = BindingFiltering.vsmdi
+		BindingFiltering1.vsmdi = BindingFiltering1.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGAutoFilter", "DGAutoFilter\DGAutoFilter.csproj", "{71A6572F-6FA3-416D-BF09-DFB28F2AA9B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewAutoFilter", "DataGridViewAutoFilter\DataGridViewAutoFilter.csproj", "{5A4B4B14-D3B5-4D54-80EC-0877C1E6E73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingFiltering", "BindingFiltering\BindingFiltering.csproj", "{BD871DC8-0871-4848-A4A2-9C46C1A4EFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D811310-C5E5-4DC0-8AE9-8112ACF364AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D811310-C5E5-4DC0-8AE9-8112ACF364AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D811310-C5E5-4DC0-8AE9-8112ACF364AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D811310-C5E5-4DC0-8AE9-8112ACF364AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A6572F-6FA3-416D-BF09-DFB28F2AA9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A6572F-6FA3-416D-BF09-DFB28F2AA9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A6572F-6FA3-416D-BF09-DFB28F2AA9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A6572F-6FA3-416D-BF09-DFB28F2AA9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4B4B14-D3B5-4D54-80EC-0877C1E6E73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4B4B14-D3B5-4D54-80EC-0877C1E6E73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4B4B14-D3B5-4D54-80EC-0877C1E6E73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4B4B14-D3B5-4D54-80EC-0877C1E6E73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD871DC8-0871-4848-A4A2-9C46C1A4EFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD871DC8-0871-4848-A4A2-9C46C1A4EFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD871DC8-0871-4848-A4A2-9C46C1A4EFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD871DC8-0871-4848-A4A2-9C46C1A4EFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tkbgitvstfat01:8080/
+		SccProjectUniqueName0 = BindingFilteringTest\\BindingFilteringTest.csproj
+		SccProjectName0 = BindingFilteringTest
+		SccAuxPath0 = http://tkbgitvstfat01:8080
+		SccLocalPath0 = BindingFilteringTest
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = DGAutoFilter\\DGAutoFilterForm.csproj
+		SccProjectName1 = DGAutoFilter
+		SccAuxPath1 = http://tkbgitvstfat01:8080
+		SccLocalPath1 = DGAutoFilter
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = DataGridViewAutoFilter\\DataGridViewAutoFilter.csproj
+		SccProjectName2 = DataGridViewAutoFilter
+		SccAuxPath2 = http://tkbgitvstfat01:8080
+		SccLocalPath2 = DataGridViewAutoFilter
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = BindingFiltering\\BindingFiltering.csproj
+		SccProjectName3 = BindingFiltering
+		SccAuxPath3 = http://tkbgitvstfat01:8080
+		SccLocalPath3 = BindingFiltering
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
